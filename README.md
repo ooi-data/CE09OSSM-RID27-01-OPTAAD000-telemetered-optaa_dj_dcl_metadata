@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE09OSSM-RID27-01-OPTAAD000-telemetered-optaa_dj_dcl_metadata
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Metadata<br>
+Instrument Group Code: OPTAA<br>
